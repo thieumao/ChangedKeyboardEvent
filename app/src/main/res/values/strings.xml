@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChangedKeyboardEvent</string>
+    <string name="input_guide">Input your name ...</string>
+</resources>
